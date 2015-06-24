@@ -1,0 +1,11 @@
+TRD16IDE PROJECT DEFINE:
+IM=Midi_play_V1.2.ASM
+BANK0=Midi_play_V1.2.ASM
+INCLUDE=Midi_play_V1.2.INC
+OBJECT=Mid_Proc_1.2.9.obj
+SUBASM=user_code.asm
+SUBASM=system_inti.asm
+SUBASM=Spi_ctrl.asm
+SUBASM=adpcm4.asm
+
+SUBASM=MIDILIB.ASM

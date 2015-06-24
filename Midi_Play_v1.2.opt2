@@ -1,0 +1,45 @@
+[_B21]
+[Chip_type] = TRD16L103A
+[Version]   =  1.2  
+[PROT]      = 0002H
+[WDPS]      = H
+[Reserved]  = FFFFH
+[Reserved]  = FFFFH
+[PULL_PA]   = 00FFH
+[PULL_PB]   = 00FFH
+[PULL_PC]   = 00FFH
+[WAKEB]     = FFFFH
+[WAKLV]     = FFFFH
+[Reserved]  = FFFFH
+[MISC]      = 93C5H
+[Reserved]  = FFFFH
+[_B12]
+[Chip_type] = TRD16P101A
+[Version]   = 1.7  
+[PROT]      = 0002H
+[WDPS]      = H
+[Reserved]  = FFFFH
+[Reserved]  = FFFFH
+[PULL_PA]   = 00FFH
+[PULL_PB]   = 00FFH
+[PULL_PC]   = 00FFH
+[WAKEB]     = FFFFH
+[WAKLV]     = FFFFH
+[Reserved]  = FFFFH
+[MISC]      = 0785H
+[Reserved]  = FFFFH
+[_B16]
+[Chip_type] = TRD16P160B
+[Version]   =  1.2  
+[PROT]      = 0000H
+[WDPS]      = H
+[Reserved]  = FFFFH
+[Reserved]  = FFFFH
+[PULL_PA]   = 00FFH
+[PULL_PB]   = 00FFH
+[PULL_PC]   = 00FFH
+[WAKEB]     = FFF0H
+[WAKLV]     = FFFFH
+[Reserved]  = FFFFH
+[MISC]      = 2305H
+[Reserved]  = FFFFH
